@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=004saichaithanya&show_icons=true&locale=en&layout=compact" alt="004saichaithanya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=004saichaithanya&show_icons=true&locale=en" alt="004saichaithanya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=004saichaithanya&theme=radical" alt="004saichaithanya" /></p>
