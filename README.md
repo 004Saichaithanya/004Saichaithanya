@@ -7,6 +7,15 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-121212?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=004saichaithanya&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
