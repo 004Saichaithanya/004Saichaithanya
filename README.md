@@ -19,6 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=004saichaithanya&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20CV%20%7C%20SDE-blueviolet?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 What I’m Up To
