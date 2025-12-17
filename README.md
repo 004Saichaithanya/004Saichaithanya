@@ -1,47 +1,94 @@
 <h1 align="center">Hi 👋, I'm Poloju Sai Chaithanya</h1>
-<h3 align="center">Aspiring Software Engineer | AI & Web Development Enthusiast | Student at CBIT'27</h3>
+<h3 align="center">
+Aspiring Software Engineer • AI & Computer Vision • Full-Stack Developer  
+<br/>Student @ CBIT ’27
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=004saichaithanya&label=Profile%20views&color=0e75b6&style=flat" alt="004saichaithanya" /> </p>
-
-- 🔭 I’m currently working on [NIDAR Challenge](https://github.com/004Saichaithanya/NIDAR_Path_Planning)
-
-- 🌱 I’m currently learning **AI/ML, Computer Vision**
-
-- 👯 I’m looking to collaborate on [Crowd Safety Intelligence](https://github.com/004Saichaithanya/HTF25-Team-144)
-
-- 🤝 I’m looking for help with **Model optimization & real-time deployment**
-
-- 👨‍💻 All of my projects are available at [portfolio-3rp9.vercel.app/](portfolio-3rp9.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@004polojusaichaithanya](https://medium.com/@004polojusaichaithanya)
-
-- 💬 Ask me about **React,Python(Flask/FastAPI),MERN**
-
-- 📫 How to reach me **004polojusaichaithanya@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C0fBtCA0jH9KqNf7fFVa6CLOgxzpx-DF/view?usp=sharing](https://drive.google.com/file/d/1C0fBtCA0jH9KqNf7fFVa6CLOgxzpx-DF/view?usp=sharing)
-
-- ⚡ Fun fact **Silent execution, loud results**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/poloju-sai-chaithanya-554287292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poloju-sai-chaithanya-554287292" height="30" width="40" /></a>
-<a href="https://kaggle.com/sai chaithanya004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sai chaithanya004" height="30" width="40" /></a>
-<a href="https://instagram.com/saichaithanya976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saichaithanya976" height="30" width="40" /></a>
-<a href="https://medium.com/@004polojusaichaithanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@004polojusaichaithanya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/004polojusaicha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="004polojusaicha1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saichaithanya004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saichaithanya004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saichaithanya04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saichaithanya04" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/km361201v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="km361201v" height="30" width="40" /></a>
+<p align="center">
+⚡ <i>Silent execution, loud results</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=004saichaithanya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=004saichaithanya&show_icons=true&locale=en&layout=compact" alt="004saichaithanya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=004saichaithanya&show_icons=true&locale=en" alt="004saichaithanya" /></p>
+## 🚀 What I’m Up To
+
+- 🔭 **Currently working on:**  
+  **NIDAR Challenge** – AI-driven path planning & crowd-aware navigation  
+  🔗 https://github.com/004Saichaithanya/NIDAR_Path_Planning
+
+- 🌱 **Currently learning:**  
+  **AI/ML, Computer Vision, Real-time Systems**
+
+- 👯 **Open to collaboration on:**  
+  **Crowd Safety Intelligence** (Vision + AI for public safety)  
+  🔗 https://github.com/004Saichaithanya/HTF25-Team-144
+
+- 🤝 **Looking for help with:**  
+  Model optimization & real-time deployment
+
+- 💬 **Ask me about:**  
+  React • Python (Flask/FastAPI) • MERN • Computer Vision
+
+---
+
+## 🌐 Portfolio & Writing
+
+- 👨‍💻 **All Projects:** https://portfolio-3rp9.vercel.app  
+- 📝 **Blogs:** https://medium.com/@004polojusaichaithanya  
+- 📄 **Resume:**  
+  https://drive.google.com/file/d/1C0fBtCA0jH9KqNf7fFVa6CLOgxzpx-DF/view
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/poloju-sai-chaithanya-554287292" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+<a href="https://kaggle.com/saichaithanya004" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+</a>
+<a href="https://medium.com/@004polojusaichaithanya" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
+</a>
+<a href="https://www.hackerrank.com/004polojusaicha1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/>
+</a>
+<a href="https://codeforces.com/profile/saichaithanya004" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35"/>
+</a>
+<a href="https://www.leetcode.com/saichaithanya04" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,fastapi,mongodb,mysql,opencv,pytorch,tensorflow,git,linux,tailwind&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=004saichaithanya&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=004saichaithanya&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=004saichaithanya" />
+</p>
+
+---
+
+### 🧠 Fun Fact
+> **Silent execution, loud results**
