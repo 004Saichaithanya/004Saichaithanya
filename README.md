@@ -83,18 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=004saichaithanya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=004saichaithanya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=004Saichaithanya&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
-</p>
-
- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=004saichaithanya&theme=tokyo-night)
-
-
-
 ---
 
 ### ⚡ Fun Fact
