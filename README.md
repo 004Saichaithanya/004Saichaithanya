@@ -81,14 +81,11 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=004Saichaithanya&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=004Saichaithanya&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004Saichaithanya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=004Saichaithanya&theme=tokyonight" />
 </p>
 
 
