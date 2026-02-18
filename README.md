@@ -88,8 +88,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=004Saichaithanya&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=004Saichaithanya&theme=tokyonight" />
 </p>
+
 
 ---
 
