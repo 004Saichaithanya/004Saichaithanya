@@ -80,7 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=004saichaithanya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=004Saichaithanya&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=004saichaithanya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
