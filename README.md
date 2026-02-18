@@ -81,10 +81,14 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=004Saichaithanya&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=004saichaithanya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004Saichaithanya&theme=tokyonight" />
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=004Saichaithanya&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
