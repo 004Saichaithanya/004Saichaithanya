@@ -49,7 +49,7 @@
 
 ## 🌐 Portfolio & Writing
 
-- 👨‍💻 **Portfolio:** https://portfolio-sai-chaithanya-poloju.vercel.app/ 
+- 👨‍💻 **Portfolio:** https://sai-chaithanya-poloju-portfolio.vercel.app/ 
 - 📝 **Blogs:** https://medium.com/@004polojusaichaithanya  
 - 📄 **Resume:**  
   https://drive.google.com/file/d/1C0fBtCA0jH9KqNf7fFVa6CLOgxzpx-DF/view
