@@ -59,7 +59,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/poloju-sai-chaithanya-554287292"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
+<a href="https://linkedin.com/in/poloju-sai-chaithanya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
 <a href="https://kaggle.com/saichaithanya004"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/></a>
 <a href="https://medium.com/@004polojusaichaithanya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/></a>
 <a href="https://www.hackerrank.com/004polojusaicha1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/></a>
